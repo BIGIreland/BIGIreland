@@ -1,0 +1,31 @@
+
+prof-a:
+    display_name: "Dr. Jim Buckley"
+    role: faculty
+    webpage: "https://www.lero.ie/people/jim-buckley"
+    image: /img/people/JB.png
+    bio: Jim Buckley is a senior lecturer at the University of Limerick, Ireland.
+
+prof-b:
+    display_name: "Dr. Andrew Le Gear"
+    role: faculty
+    webpage: "https://ie.linkedin.com/in/andylegear"
+    image: /img/people/andy.jpeg
+    bio: Andrew is the CTO of Horizon Globex.
+
+
+prof-c:
+    display_name: "Dr. Farshad Toosi"
+    role: postdoc
+    webpage: "https://www.lero.ie/people/farshad-ghassemi-toosi"
+    image: /img/people/farshad.jpeg
+    bio: Farshad is a post doctoral researcher at Lero.
+
+
+
+scott:
+    display_name: "Ashish Rajendra Sai"
+    webpage: "ashishrsai.github.io"
+    role: grad
+    image: /img/people/ashish.jpg
+    bio: Ashish is a Ph.D. candidate at Lero.
