@@ -9,13 +9,13 @@ prof-b:
 
 prof-c:
     display_name: "Prof C"
-    role: faculty
+    role: postdoc
 
 
 
 scott:
     display_name: "Scott Summers"
     webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
+    role: grad
     image: /img/people/scott.png
     bio: aka Cyclops
