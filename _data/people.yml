@@ -29,3 +29,10 @@ scott:
     role: grad
     image: /img/people/ashish.jpg
     bio: Ashish is a Ph.D. candidate at Lero.
+
+holemes:
+    display_name: "Conor Holmes"
+    webpage: " "
+    role: grad
+    image:
+    bio: Conor is a MSc student at UL.
